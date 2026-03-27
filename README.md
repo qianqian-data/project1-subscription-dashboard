@@ -4,7 +4,7 @@
 Exploratory data analysis on 7,032 telecom customers to identify 
 churn drivers and provide actionable retention recommendations.
 
-**Tools:** Python, pandas, matplotlib, seaborn  
+**Tools:** Python, pandas, matplotlib  
 **Dataset:** IBM Telco Customer Churn (Kaggle)
 
 ## Key Findings
@@ -31,6 +31,6 @@ churn drivers and provide actionable retention recommendations.
 
 ## How to Run
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib
 jupyter notebook analysis.ipynb
 ```
