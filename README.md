@@ -3,6 +3,7 @@
 ## Project Overview
 Exploratory data analysis on 7,032 telecom customers to identify 
 churn drivers and provide actionable retention recommendations.
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CustomerChurnAnalysis-SubscriptionBusiness/CustomerChurnDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Tools:** Python, pandas, matplotlib  
 **Dataset:** IBM Telco Customer Churn (Kaggle)
